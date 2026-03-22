@@ -87,7 +87,8 @@ python Banking_Customer_Churn.ipynb
 streamlit run churn_streamlit.py
 ```
 เปิด http://localhost:8501
-
+---
+หรือกดเข้าลิ้งค์นี้ https://bankingcustomerchurn-vwzdcl7nvpemyypwqmg2hm.streamlit.app/#about-this-project
 ---
 ## 📱 Web App มี 4 Tab
 
