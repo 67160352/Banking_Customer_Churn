@@ -120,7 +120,7 @@ streamlit run churn_streamlit.py
 ```
 Age: 65 ปี (แก่)
 Tenure: 1 ปี (ใหม่)
-Country: Germany (เสี่ยม)
+Country: Germany (เสี่ยง)
 Products: 1 (ใช้แค่บัญชีเดียว)
 IsActive: No (ไม่ใช้งาน)
 
